@@ -124,12 +124,14 @@ Ze źródła którego nie możemy ujawnić dowiedzieliśmy się że klaster akty
 
 #### Zadanie 14
 Przeanalizuj [raport nr. 1](https://tria.ge/241015-l98snsyeje/behavioral2): 
+SHA256: 939f509a8edc6b9da103fbcebe85630671ed591dd9e40243da37559e10dcfd80, platforma TRIA.GE
 
 Zidentyfikuj możliwości zaimplementowania reguł bezpieczeństwa wykrywających TTP implementowane przez próbkę. Skup się na TTP dotyczących systemu Windows.
 Zaimplementuj zapytania, które według Ciebie są najistotniejsze.
 
 #### Zadanie 15
 Przeanalizuj [raport nr. 2](https://tria.ge/241102-1hhvhawenh/behavioral1):
+SHA256: bdc7b917477bb49af7a5b06e5d9ed20e08fed25944f297a6b36a50d03d8a5777, platforma TRIA.GE
 
 Zidentyfikuj możliwości zaimplementowania reguł bezpieczeństwa wykrywających TTP implementowane przez próbkę. Skup się na TTP dotyczących systemu Windows.
 Zaimplementuj zapytania, które według Ciebie są najistotniejsze.
